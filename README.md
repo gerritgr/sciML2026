@@ -8,7 +8,7 @@ Slides password is _sciml2026_
 - **SQUID: A Bayesian Approach for Physics-Informed Event Modeling**  
   Sumantrak Mukherjee, Sebastian Josef Vollmer, Gerrit Großmann  
   *NeurIPS Workshop on Differentiable Systems and Scientific Machine Learning (EurIPS-DSML), 2025*  
-  *(Accepted)*
+  
 
 - **CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data**  
   Gerrit Großmann, Sumantrak Mukherjee, Sebastian Josef Vollmer  
